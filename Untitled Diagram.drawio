@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-11-29T09:50:58.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="YP9vBdV_8Im9idgFjXVa" type="github">
+  <diagram name="Page-1" id="ep92gG-SD7PWIu7amzRD">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="subgraph GreenLead: Transforming Sustainability in the Transport Sector" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="482" y="115" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Introduction" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="686" y="123" width="109" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Company Name: GreenLead" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="753" y="241" width="219" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Tagline: Driving Environmental Responsibility Through Innovation" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="516" y="313" width="181" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Include GreenLead&#39;s logo" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="535" y="455" width="219" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Mission Statement" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="276" y="222" width="152" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Mission: &quot;To revolutionize the transport sector by incentivizing the adoption of electric vehicles, generating real time carbon credits, and providing transparent ESG reporting.&quot;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="141" width="208" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="The Challenge" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="463" y="103" width="123" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Problem: &quot;Transport sector&quot;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="383" y="15" width="216" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="endArrow=none" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="endArrow=none" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="endArrow=none" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="endArrow=none" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" style="endArrow=none" edge="1" parent="1" source="2" target="9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="endArrow=none" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" style="endArrow=none" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" style="endArrow=none" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
